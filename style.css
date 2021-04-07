@@ -233,3 +233,7 @@ padding: 1px;
   margin: 0.5em;
   padding: 0.5em;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
