@@ -206,9 +206,6 @@ footer {
 	text-align: left;
 			
 }
-.sharebtn{
-		font-size: 26px;
-}
 .container {
   position: relative;
   overflow: hidden;
@@ -227,15 +224,4 @@ footer {
 .move
 {
 padding: 1px;
-}
-.figcaption{
-  text-align: center;
-  margin: 0.5em;
-  padding: 0.5em;
-  text-decoration:none;
-  color: green;
-}
-.responsive {
-  width: 100%;
-  height: auto;
 }
