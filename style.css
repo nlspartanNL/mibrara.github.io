@@ -225,3 +225,12 @@ footer {
 {
 padding: 1px;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.figcaption{
+  text-align: center;
+  margin: 0.5em;
+  padding: 0.5em;
+}
