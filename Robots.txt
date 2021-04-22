@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mibrara.github.io/sitemap.xml
