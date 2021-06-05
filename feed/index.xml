@@ -1,5 +1,5 @@
 <br />
-<b>Warning</b>:  Trying to access array offset on value of type null in <b>D:\xampp\htdocs\github\wp-content\themes\videotube\includes\functions.php</b> on line <b>971</b><br />
+<b>Warning</b>:  Undefined array key "video_feed" in <b>D:\xampp\htdocs\yamyhub\wp-content\themes\videotube\includes\functions.php</b> on line <b>971</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -10,11 +10,11 @@
 	>
 
 <channel>
-	<title>Porn videos</title>
-	<atom:link href="https://mibrara.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mibrara.github.io</link>
+	<title>Yamyhub</title>
+	<atom:link href="https://adult.yamyhub.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adult.yamyhub.com</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 22 May 2021 01:22:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jun 2021 01:48:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,9 +23,9 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://mibrara.github.io/wp-content/uploads/2021/05/favicon.png</url>
-	<title>Porn videos</title>
-	<link>https://mibrara.github.io</link>
+	<url>https://adult.yamyhub.com/wp-content/uploads/2021/06/favicon.png</url>
+	<title>Yamyhub</title>
+	<link>https://adult.yamyhub.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
