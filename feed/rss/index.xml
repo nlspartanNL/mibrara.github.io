@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://adult.yamyhub.com/feed/">
+		<meta http-equiv="refresh" content="0;url=https://test.yamyhub.com/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://adult.yamyhub.com/feed/";
+			window.location = "https://test.yamyhub.com/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="https://adult.yamyhub.com/feed/">https://adult.yamyhub.com/feed/</a></p>
+		<p>You are being redirected to <a href="https://test.yamyhub.com/feed/">https://test.yamyhub.com/feed/</a></p>
 	</body>
 </html>

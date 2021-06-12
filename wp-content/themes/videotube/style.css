@@ -205,7 +205,7 @@ iframe {
 }
 
 .spinner{
-    background: url(https://adult.yamyhub.com/wp-content/themes/videotube/img/spinner.gif) no-repeat;
+    background: url(https://test.yamyhub.com/wp-content/themes/videotube/img/spinner.gif) no-repeat;
     background-size: 20px 20px;
     display: inline-block;
     opacity: .7;
@@ -307,7 +307,7 @@ a.viewmore i {
     left: 0;
     height: 120px;
     width: 100%;
-    background: url(https://adult.yamyhub.com/wp-content/themes/videotube/img/feat-bg.png) repeat-x bottom;
+    background: url(https://test.yamyhub.com/wp-content/themes/videotube/img/feat-bg.png) repeat-x bottom;
 }
 .feat-item .post-header {
     position: absolute;
@@ -486,7 +486,7 @@ a.viewmore i {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #000000 url(https://adult.yamyhub.com/wp-content/themes/videotube/img/play-icon.png) no-repeat center center;
+	background: #000000 url(https://test.yamyhub.com/wp-content/themes/videotube/img/play-icon.png) no-repeat center center;
 	opacity: 0;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
@@ -494,7 +494,7 @@ a.viewmore i {
 	-webkit-transform: translateZ(0) scale(1.0, 1.0);
 }
 .img-hover.big {
-	background: #000000 url(https://adult.yamyhub.com/wp-content/themes/videotube/img/play-icon-big.png) no-repeat center center;
+	background: #000000 url(https://test.yamyhub.com/wp-content/themes/videotube/img/play-icon-big.png) no-repeat center center;
 }
 .item-img:hover > a .img-hover,
 .img-hover.active{
@@ -1884,5 +1884,76 @@ a.uploaded-file {
 .pornstarfigcaption{
 	text-align:center;
 	color: darkgreen;
-
 }
+.mobileShow-video-upper-text {display: none;
+    font-size: 250%;
+}
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 499px){ 
+      .mobileShow-video-upper-text {display: inline;
+		font-size: 75%;
+		}
+  }
+  .pcShow1-video-upper-text {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 500px)
+    and (max-device-width : 999px){ 
+      .pcShow1-video-upper-text {display: inline;
+        font-size: 100%;
+    }
+
+  }
+  .pcShow2-video-upper-text {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 1000px)
+    and (max-device-width : 5000px){ 
+      .pcShow2-video-upper-text {display: inline;
+        font-size: 130%;
+    }
+  }
+  .video-upper-text-mobileShow{
+    padding-left: 60px;
+  }
+  .video-upper-text-pcShow1
+  {
+    padding-left: 90px;
+  }
+  .video-upper-text-pcShow2
+  {
+    padding-left: 200px;
+  }
+.ahref-upper-text{
+      text-decoration: none;
+      color: blueviolet;
+  }
+.mobileShow-video-bottom {display: none;}
+
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 306px)
+    and (max-device-width : 467px){ 
+      .mobileShow-video-bottom {display: inline;}
+  }
+  .pcShow1-video-bottom {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 468px)
+    and (max-device-width : 727px){ 
+      .pcShow1-video-bottom {display: inline;}
+  }
+  .pcShow2-video-bottom {display: none;}
+
+  /* pc Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 728px)
+    and (max-device-width : 5000px){ 
+      .pcShow2-video-bottom {display: inline;}
+  }
