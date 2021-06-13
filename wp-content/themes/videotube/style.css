@@ -1886,74 +1886,50 @@ a.uploaded-file {
 	color: darkgreen;
 }
 .mobileShow-video-upper-text {display: none;
-    font-size: 250%;
 }
 
   /* Smartphone Portrait and Landscape */
   @media only screen
-    and (min-device-width : 320px)
-    and (max-device-width : 499px){ 
+    and (min-device-width : 0px)
+    and (max-device-width : 767px){ 
       .mobileShow-video-upper-text {display: inline;
-		font-size: 75%;
 		}
   }
   .pcShow1-video-upper-text {display: none;}
 
   /* pc Portrait and Landscape */
   @media only screen
-    and (min-device-width : 500px)
-    and (max-device-width : 999px){ 
+    and (min-device-width : 768px)
+    and (max-device-width : 10000px){ 
       .pcShow1-video-upper-text {display: inline;
-        font-size: 100%;
     }
 
-  }
-  .pcShow2-video-upper-text {display: none;}
-
-  /* pc Portrait and Landscape */
-  @media only screen
-    and (min-device-width : 1000px)
-    and (max-device-width : 5000px){ 
-      .pcShow2-video-upper-text {display: inline;
-        font-size: 130%;
-    }
-  }
-  .video-upper-text-mobileShow{
-    padding-left: 60px;
-  }
-  .video-upper-text-pcShow1
-  {
-    padding-left: 90px;
-  }
-  .video-upper-text-pcShow2
-  {
-    padding-left: 200px;
   }
 .ahref-upper-text{
       text-decoration: none;
       color: blueviolet;
   }
-.mobileShow-video-bottom {display: none;}
+.mobileShow {display: none;}
 
   /* Smartphone Portrait and Landscape */
   @media only screen
     and (min-device-width : 306px)
     and (max-device-width : 467px){ 
-      .mobileShow-video-bottom {display: inline;}
+      .mobileShow {display: inline;}
   }
-  .pcShow1-video-bottom {display: none;}
+  .pcShow1 {display: none;}
 
   /* pc Portrait and Landscape */
   @media only screen
     and (min-device-width : 468px)
     and (max-device-width : 727px){ 
-      .pcShow1-video-bottom {display: inline;}
+      .pcShow1 {display: inline;}
   }
-  .pcShow2-video-bottom {display: none;}
+  .pcShow2 {display: none;}
 
   /* pc Portrait and Landscape */
   @media only screen
     and (min-device-width : 728px)
     and (max-device-width : 5000px){ 
-      .pcShow2-video-bottom {display: inline;}
+      .pcShow2 {display: inline;}
   }
