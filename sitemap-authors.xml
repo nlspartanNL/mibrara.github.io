@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://adult.yamyhub.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de/" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="June 21, 2021 5:19 am" -->
+<!-- generated-on="June 21, 2021 6:03 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://adult.yamyhub.com/author/yamyhub/</loc>
-		<lastmod>2021-06-21T05:09:47+00:00</lastmod>
+		<lastmod>2021-06-21T05:56:45+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: 81ee864064955c6e49e6e03b165b0bdc; Queries for sitemap: 2; Total queries: 26; Seconds: 0.03; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: c88656660c186cfe0f862efe83a53548; Queries for sitemap: 2; Total queries: 26; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
