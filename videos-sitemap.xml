@@ -1,0 +1,21 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+   <url>
+     <loc>http://www.example.com/videos/some_video_landing_page.html</loc>
+     <video:video>
+       <video:thumbnail_loc>http://www.example.com/thumbs/123.jpg</video:thumbnail_loc>
+       <video:title>Grilling steaks for summer</video:title>
+       <video:description>Alkis shows you how to get perfectly done steaks every
+         time</video:description>
+       <video:content_loc>
+          http://streamserver.example.com/video123.mp4</video:content_loc>
+       <video:duration>600</video:duration>
+       <video:publication_date>2007-11-05T19:20:30+08:00</video:publication_date>
+       <video:family_friendly>no</video:family_friendly>
+       <video:requires_subscription>no</video:requires_subscription>
+	<video:tag></video:tag>
+       <video:category>	</video:category>	
+       <video:live>no</video:live>
+     </video:video>
+   </url>
+</urlset>
