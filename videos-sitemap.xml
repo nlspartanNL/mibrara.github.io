@@ -305,22 +305,4 @@
        <video:requires_subscription>no</video:requires_subscription>
      </video:video>
    </url>
-<url>
-     <loc>http://www.yamyhub.com/videos/some_video_landing_page.html</loc>
-     <video:video>
-       <video:thumbnail_loc>http://www.yamyhub.com/thumbs/123.jpg</video:thumbnail_loc>
-       <video:title>Grilling steaks for summer</video:title>
-       <video:description>Alkis shows you how to get perfectly done steaks everytime</video:description>
-       <video:content_loc>
-          http://streamserver.example.com/video123.mp4</video:content_loc>
-       <video:duration>600</video:duration>
-       <video:publication_date>2007-11-05T19:20:30+08:00</video:publication_date>
-	      <video:tag></video:tag>
-       <video:category>	</video:category>	
-       <video:live>no</video:live>
-        <video:family_friendly>no</video:family_friendly>
-                <video:platform relationship="allow">web tv mobile</video:platform>
-       <video:requires_subscription>no</video:requires_subscription>
-     </video:video>
-   </url>
 </urlset>
