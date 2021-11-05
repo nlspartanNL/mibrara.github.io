@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /wp-json/
-User-agent: Googlebot-Image
-Disallow: /image-ad/
-user-agent: Bingbot
-Disallow: /image-ad/
 Sitemap: https://www.yamyhub.com/sitemap.xml
